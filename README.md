@@ -10,3 +10,4 @@
     - help page | Jessica
     - contact us page | Olalekan
     - term and condition page | Aanu
+    - signup page | Aanu
